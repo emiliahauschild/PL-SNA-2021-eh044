@@ -1,11 +1,10 @@
 # CODEBUCH							
-Wert	          	Kommentar
 
 # edgelist:						
-from:			definiert den Sender in gerichteten Netzwerken. 			
-to: 			definiert den Empfänger in ungerichteten Netzwerken.  						
-relationship:		definiert die Art der Beziehung 1=Mitglied/Vorstand 2=Gründer 3=Geschäftsführer/Direktor 4=Aufsichtsrat					
-time:			definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde.				
+from: definiert den Sender in gerichteten Netzwerken. 			
+to: definiert den Empfänger in ungerichteten Netzwerken.  						
+relationship: definiert die Art der Beziehung 1=Mitglied/Vorstand 2=Gründer 3=Geschäftsführer/Direktor 4=Aufsichtsrat					
+time: definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde.				
 
 # nodelist:						
 id:			eindeutige Identifikation jedes einzelnen Knotens (Personen und Organisationen), der erfasst wird.  		
