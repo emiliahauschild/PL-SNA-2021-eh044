@@ -20,7 +20,7 @@ sex: gibt das Geschlecht der Personen an 1=männlich 2=weiblich
 age: Alter der Personen zum Zeitpunkt des 10. Februars 2021		
 
 type:Unterscheidung zwischen 0=Person und 1=Organisation 						
-function: Funktion im VfB V=Vorstand, AR=Aufsichtsrat	
+committee: Funktion im VfB 1=Vorstand, 2=Aufsichtsrat	
 
 representation:	bezieht sich auf die Funktion innerhalb der VfB Gremien:  F=Finanzen, S=Sport, M=Marketing/Vertrieb, K=Kommunikation
 
